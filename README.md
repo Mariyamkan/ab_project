@@ -1,14 +1,45 @@
-# Анализ АБ-теста по ключевым метрикам
+# Analysis of A/B Test Preparations for Key Metrics
+
+## Introduction
+
+In this project, we conduct an analysis of A/B test preparations to test the hypothesis that there is no statistically significant difference between the control and test groups for the following metrics:
+
+- Number of searches
+- Number of content views
+- Number of additions to cart
+- Number of impressions
+
+## Hypotheses
+
+1. **Searches:**
+   - H1: There is a significant difference between groups in the number of searches
+   - H0: There is no significant difference between groups in the number of searches
+
+2. **Content Views:**
+   - H1: There is a significant difference between groups in the number of content views
+   - H0: There is no significant difference between groups in the number of content views
+
+3. **Additions to Cart:**
+   - H1: There is a significant difference between groups in the number of additions to cart
+   - H0: There is no significant difference between groups in the number of additions to cart
+
+4. **Impressions:**
+   - H1: There is a significant difference between groups in the number of impressions
+   - H0: There is no significant difference between groups in the number of impressions
+  
+
+
+
+# Анализ подготовки к A/B-тестированию ключевых метрик
 
 ## Введение
 
-В этом проекте мы проводим анализ АБ-теста для проверки гипотезы о том, что нет статистически значимой разницы между контрольной и тестовой группами по следующим показателям:
+В данном проекте мы проводим анализ подготовки к A/B-тестированию для проверки гипотезы о том, что нет статистически значимой разницы между контрольной и тестовой группами по следующим показателям:
 
 - Количество поисков
 - Количество просмотров контента
 - Количество добавок в корзину
 - Количество отзывов (# of impressions)
-
 
 ## Гипотезы
 
